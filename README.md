@@ -7,5 +7,5 @@ Usage
 -----
 
 1. Rename rtm.conf.example to rtm.conf
-2. Input your username, password and icalendar url
+2. Input your username, password and icalendar url to rtm.conf
 3. Run "python rtmtaglist.py"
