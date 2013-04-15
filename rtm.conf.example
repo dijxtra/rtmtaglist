@@ -1,0 +1,7 @@
+[login]
+username = johndoe
+password = secret
+
+[urls]
+base = https://www.rememberthemilk.com/
+calendar = icalendar/johndoe/25637063

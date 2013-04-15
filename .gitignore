@@ -1,0 +1,6 @@
+env
+*~
+*.pyc
+*.txt
+*.ical
+rtm.conf
